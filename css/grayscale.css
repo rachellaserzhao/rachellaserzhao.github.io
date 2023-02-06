@@ -154,6 +154,10 @@
   background-color: #64a19d;
 }
 
+.btn-blk {
+  background-color: #090a0a;
+}
+
 .btn-primary:hover {
   background-color: #4f837f;
 }
@@ -293,6 +297,10 @@ a:focus, a:hover {
 
 .bg-black {
   background-color: #161616 !important;
+}
+
+.bg-food {
+  background-color: #eeac4a !important;
 }
 
 .bg-primary {
